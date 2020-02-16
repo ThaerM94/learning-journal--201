@@ -154,4 +154,4 @@ If everything on a page appeared in the same style, it would be much harder to u
 Grouping together related content into blocks or chunks makes the page look simpler (and easier to understand).
 Users should be able to identify the purpose of each block without processing each individual item.
 
-[Main page](https://thaerm94.github.io/reading-notes/main-page)
+[Main page](https://thaerm94.github.io/reading-notes/)
