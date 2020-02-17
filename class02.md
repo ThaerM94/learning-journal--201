@@ -55,3 +55,4 @@ This can help you and others who read your code.
 3. Logical OR ||
 
 
+[Main page](https://thaerm94.github.io/reading-notes/)
