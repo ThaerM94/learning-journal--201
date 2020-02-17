@@ -27,3 +27,6 @@ Suppose there are variety of conditions that you want to check. You can use mult
 
  ## switch statement
 switch statements do the same task that else if statements do. But use switch statements when conditions are more. In that case, switch statements perform better than else if statements.
+
+
+[Main page](https://thaerm94.github.io/reading-notes/)
