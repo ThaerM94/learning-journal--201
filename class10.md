@@ -18,4 +18,7 @@ If you encounter a problem with your code, there are a number of methods availab
 
 ## Using try/catch
 
-Enclose code that may be error prone within a try control structure. The following example shows a routine that opens and reads from a file enclosed in a try statement. If an execution error occurs in any of the statements after the start of the try control structure, the catch clause will be triggered with the details of the error. In the example below we declare a variable someErrorto contain details of the error.
+* Enclose code that may be error prone within a try control structure. The following example shows a routine that opens and reads from a file enclosed in a try statement. If an execution error occurs in any of the statements after the start of the try control structure, the catch clause will be triggered with the details of the error. In the example below we declare a variable someErrorto contain details of the error.
+
+
+[Main page](https://thaerm94.github.io/reading-notes/)
