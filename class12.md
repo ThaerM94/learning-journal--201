@@ -20,15 +20,30 @@
 
 
 ## Colors
-Up until now we have only seen methods of the drawing context. If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.
+* Up until now we have only seen methods of the drawing context. If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.
 
 fillStyle = color
-Sets the style used when filling shapes.
+* Sets the style used when filling shapes.
 strokeStyle = color
 Sets the style for shapes' outlines.
-color is a string representing a CSS `<color>`, a gradient object, or a pattern object. We'll look at gradient and pattern objects later. By default, the stroke and fill color are set to black **CSS color value #000000)**.
+* scolor is a string representing a CSS `<color>`, a gradient object, or a pattern object. We'll look at gradient and pattern objects later. By default, the stroke and fill color are set to black **CSS color value #000000)**.
 
+## Drawing text
+* The canvas rendering context provides two methods to render text:
 
+fillText(text, x, y [, maxWidth])
+Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
+strokeText(text, x, y [, maxWidth])
+Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
 
+## Styling text
+* In the examples above we are already making use of the font property to make the text a bit larger than the default size. There are some more properties which let you adjust the way the text gets displayed on the canvas:
+
+font = value
+* The current text style being used when drawing text. This string uses the same syntax as the CSS font property. The default font is 10px sans-serif.
+textAlign = value
+* Text alignment setting. Possible values: start, end, left, right or center. The default value is start.
+textBaseline = value
+* Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, ideographic, bottom. The default value is alphabetic.
 
 [Main page](https://thaerm94.github.io/reading-notes/)
