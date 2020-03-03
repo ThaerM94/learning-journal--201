@@ -30,3 +30,6 @@ Many teams experience a “who did what” confrontation. Fundamental to this ty
 * This person has friends, family, and perhaps children who love them, just like me.
 * This person wants to feel respected, appreciated, and competent, just like me.
 * This person wishes for peace, joy, and happiness, just like me.
+
+
+[Main page](https://thaerm94.github.io/reading-notes/)

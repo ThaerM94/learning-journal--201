@@ -36,3 +36,9 @@
 
 ## Animations
 * Transitions do a great job of building out visual interactions from one state to another, and are perfect for these kinds of single state changes. However, when more control is required, transitions need to have multiple states. In return, this is where animations pick up where transitions leave off.
+
+
+
+
+
+[Main page](https://thaerm94.github.io/reading-notes/)
